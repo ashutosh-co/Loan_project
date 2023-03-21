@@ -16,7 +16,9 @@ class Farmer{
 		pa=scan.nextInt();
 		System.out.println("please mention time duration ");
 		td=scan.nextFloat();
-		  
+		pa=scan.nextInt();
+		System.out.println("please mention time duration ");
+		td=scan.nextFloat();
 		 
 		 
 		
